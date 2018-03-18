@@ -1,1 +1,2 @@
 thisis my new txt file
+This is my second line and second edit
